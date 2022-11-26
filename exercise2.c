@@ -15,9 +15,9 @@ int main() {
 
 
     // to output specific decimal %.nf... where n= no. of decimals
-    printf("\nnum double %.30f\n", numdouble);
+    printf("\nnum double %f\n", numdouble);
     numfloat = numdouble;
-    printf("num float %.30f", numfloat);
+    printf("num float %f", numfloat);
 
     return 0;
 

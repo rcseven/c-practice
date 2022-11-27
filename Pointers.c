@@ -8,6 +8,7 @@
 
 
 #include <stdio.h>
+#include <math.h>
 
 void update(int *a,int *b) {
     int c = *a+*b;

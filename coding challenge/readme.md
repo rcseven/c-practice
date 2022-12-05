@@ -41,7 +41,9 @@ pass through it. All of the beds must be taken.
 
 ### Input:
 
-Line 1: integer 8, the number of pirate bands Line 2: integers N, and M, and the number of rows N, and the number of columns M
+Line 1: integer 8, the number of pirate bands 
+
+Line 2: integers N, and M, and the number of rows N, and the number of columns M
 
 Line 3: B Integers b i, each describe the number of beds required by each pirate band
 

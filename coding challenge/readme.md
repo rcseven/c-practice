@@ -30,6 +30,7 @@ The best island's number
 3
 
 
+
 # Machine Problem 4
 
 After the first day at sea, several groups of pirates have to decide their sleeping arrangement, they all share one large rectangular room with N rows and M columns of beds. The first group of pirates splits the room into parts, making one cut across the room at a time, either vertical or horizontal, by putting up a straight curtain between the beds across the room, and the first group picks one of the two parts and claims all of the beds in that part. The next group of pirates splits the remaining unclaimed beds in the same way, by putting straight curtain up across the unclaimed beds. Each pirate band demands a certain number of beds. Help the pirates determine whether their demands are possible to meet.
@@ -50,9 +51,11 @@ Yes, if the arrangement is possible No, if the arrangement is impossible
 
 Sample Input 1:
 
-4 34
+4 
 
-6321
+3 4
+
+6 3 2 1
 
 Sample Output 1:
 
